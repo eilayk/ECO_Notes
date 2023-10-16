@@ -139,7 +139,7 @@ Finding inflation using GDP deflator:
 
 Calculating CPI:
 ```math
-CPI=\frac{Cost\:of\:basket\:in\:desired\:year}{Cost\:of\:basket\:in\:desired\:year}\times100
+CPI=\frac{Cost\:of\:basket\:in\:desired\:year}{Cost\:of\:basket\:in\:base\:year}\times100
 ```
 
 Calculating inflation rate using % change in CPI:
