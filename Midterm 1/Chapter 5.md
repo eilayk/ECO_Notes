@@ -41,7 +41,7 @@ Real GDP: The strength of the economy in the $ of a previous year
 
 Circular flow diagram revisited:
 - The diagram is a simple depiction of GDP
-![[circular-flow 2.png]]
+![[public/ECON/ECO_Notes/Midterm 1/img/circular-flow 2.png]]
 
 Can calculate GDP using:
 - spending

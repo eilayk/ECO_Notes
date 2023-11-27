@@ -27,7 +27,7 @@ The Circular Flow Model:
 		- Sell goods and services
 - Micro focus: interaction between households and firms in the market of goods and services
 - Macro focus: can be applied to a nation - the model defines GDP
-![[circular-flow.png]]
+![[public/ECON/ECO_Notes/Midterm 1/img/circular-flow.png]]
 
 The Production Possibilities Frontier (PPF) Model:
 - Graph that shows the combination of outputs that economy can produce given the factors of production and technology.
@@ -38,7 +38,7 @@ The Production Possibilities Frontier (PPF) Model:
 - Slope signifies opportunity cost
 	- In the example, opportunity cost of a computer is 100 tons of wheat
 - PPF can be a straight line or bow-shaped, depending on what happens to opportunity cost as the economy shifts from a resource to another
-![[ppf.png]]
+![[public/ECON/ECO_Notes/Midterm 1/img/ppf.png]]
 
 Causation vs correlation:
 - Two events may be correlated without having a causal relationship
